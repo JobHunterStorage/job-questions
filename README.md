@@ -6,7 +6,7 @@ temp to use when inserting new questions from a company
 
 # Questions 
 
-1. Question 1
-1. Question 2
-1. Question 3
+1. [Insert Question 1 here]
+1. [Insert Question 2 here]
+1. [Insert Question 3 here]
    
